@@ -1,0 +1,8 @@
+Aaron Rodgers* 353 569 4002 4.6 0.7 74 95.4
+Russell Wilson* 341 516 4110 6.0 1.0 60 106.3
+Deshaun Watson* 333 495 3852 5.3 2.4 54 98.0
+Patrick Mahomes* 319 484 4031 5.4 1.0 83 105.3
+Kirk Cousins* 307 444 3603 5.9 1.4 66 107.4
+Lamar Jackson*+ 265 401 3127 9.0 1.5 83 113.3
+Drew Brees* 281 378 2979 7.1 1.1 61 116.3
+Ryan Tannehill* 201 286 2742 7.7 2.1 91 117.5
